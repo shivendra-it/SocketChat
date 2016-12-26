@@ -10,6 +10,6 @@
         "socket.io": "^1.7.1",
         "express": "*"
     },
-    "author": "mukesh dutt",
+    "author": "Shivendra Pratap Singh",
     "license": "ISC"
 }
